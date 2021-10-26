@@ -1,0 +1,18 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+  background: #333;
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.footer-text {
+  display: block;
+  padding: 15px 0;
+}
