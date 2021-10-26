@@ -1,0 +1,16 @@
+.card-wrap {
+  padding: 15px;
+}
+
+.card-item {
+  max-width: 300px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
